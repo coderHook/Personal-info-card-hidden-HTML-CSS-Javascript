@@ -4,7 +4,6 @@ Personal Info Card that shows on Hover and counts the likes. Made with HTML, CSS
 https://codepen.io/DiazPedroAbel/pen/qGNOde
 
 Example:
-
-![Alt text](https://raw.githubusercontent.com/coderHook/Personal-info-card-hidden-HTML-CSS-Javascript/master/example/card0.jpg =250x250)
+<img src="https://raw.githubusercontent.com/coderHook/Personal-info-card-hidden-HTML-CSS-Javascript/master/example/card0.jpg" align="left" height="250" width="250" >
 
 ![Alt text](example/card1.jpg?raw=true "Title" =500x500)
